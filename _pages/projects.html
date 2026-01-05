@@ -1,0 +1,29 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% assign projects_A = site.projects | where: "importance", "A" %}
+{% assign projects_B = site.projects | where: "importance", "B" %}
+{% assign projects_C = site.projects | where: "importance", "C" %}
+{% assign projects_no_importance = site.projects | where_exp: "item", "item.importance == nil" %}
+
+{% for post in projects_A reversed %}
+  {% include archive-single-project.html %}
+{% endfor %}
+
+{% for post in projects_B reversed %}
+  {% include archive-single-project.html %}
+{% endfor %}
+
+{% for post in projects_C reversed %}
+  {% include archive-single-project.html %}
+{% endfor %}
+
+{% for post in projects_no_importance reversed %}
+  {% include archive-single-project.html %}
+{% endfor %}
+
+

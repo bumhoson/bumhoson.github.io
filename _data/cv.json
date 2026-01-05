@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Seoul National University",
+      "area": "Ph.D in Industrial Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2017",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Seoul National University",
+      "area": "B.S. in Indusrial Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2013",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Seoul National University",
+      "area": "B.A. in Economics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2013",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     }

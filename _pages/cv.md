@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+<hr style="border:0; border-top:1px solid #ccc; margin:2em 0;" />
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial Engineering, **Seoul National University**, 2017-2022
+  * Thesis: Graph-based Empirical Asset Pricing : Impact of Network Connectedness
+  * Advisor: Jaewook Lee
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.S. in Industrial Engineering, **Seoul National University**, 2013-2017
+* B.A. in Economics, **Seoul National University**, 2013-2017
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<hr style="border:0; border-top:1px solid #ccc; margin:2em 0;" />
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Academic Appointments
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Assistant Professor of Management Science, 2023-Present
+  * **Chung-Ang University**, School of Business Administration
 
-Publications
+* Postdoctoral Researcher, 2022-2023
+  * **Seoul National University**, Institute of Engineering Research
+
+<hr style="border:0; border-top:1px solid #ccc; margin:2em 0;" />
+
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Development of Portfolio Risk Management System, 2024-2025
+  * **InvestWith**, Advisor
+
+* Development of a LLM-Based Solution Applying Domain-Specific Learning Methods for Automating Digital Performance Marketing for Small and Medium-Sized Merchants, 2024
+  * **LaightAI**, Advisor
+
