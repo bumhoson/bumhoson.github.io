@@ -5,6 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
+{% include base_path %}
+
+<hr style="border:0; border-top:1px solid #ccc; margin:2em 0;" />
+
 {% assign projects_A = site.projects | where: "importance", "A" %}
 {% assign projects_B = site.projects | where: "importance", "B" %}
 {% assign projects_C = site.projects | where: "importance", "C" %}
